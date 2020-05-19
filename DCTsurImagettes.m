@@ -1,4 +1,3 @@
-% ============ Q2.4 ============ 
 % Calcul de la TCD sur chacune des sous-images
 
 

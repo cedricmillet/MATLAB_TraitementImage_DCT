@@ -1,4 +1,3 @@
-% Question 2.7
 img = imread('mandril_gray.tif');
 compressedImg = imread('q26_mandril_compressed.tif');       % image générée lors de l'execution de Q26.m
 % calcul de l'erreur (difference source-compressedImg )

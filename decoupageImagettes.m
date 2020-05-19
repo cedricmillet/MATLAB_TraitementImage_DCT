@@ -1,5 +1,3 @@
-% ============ Q2.3 ============ 
-
 %On fixe nSub à 8
 subImageWidth = 8;
 subImageHeight = 8;

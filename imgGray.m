@@ -1,4 +1,3 @@
-% ============ Q2.2 ============ 
 % Passage de l'image en niveaux de gris
 img = imread('milo.tif');
 imgNB = rgb2gray(img);
